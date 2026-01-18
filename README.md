@@ -3,6 +3,8 @@
 <!--
 **filipedias2000/filipedias2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://roadmap.sh/card/tall/6966aabbe3a4245b3198885a?variant=dark
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
